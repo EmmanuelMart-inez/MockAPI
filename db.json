@@ -11,7 +11,6 @@
                 "numeroDocumentos": 1,
                 "nombreEstatus": "Aceptado",
                 "color": "#02AC66",
-                "orden": null,
                 "icon": "cloud_done"
             },
             {
@@ -21,7 +20,6 @@
                 "numeroDocumentos": 1,
                 "nombreEstatus": "Aceptado",
                 "color": "#02AC66",
-                "orden": null,
                 "icon": "cloud_done"
             },
             {
@@ -31,7 +29,6 @@
                 "numeroDocumentos": 1,
                 "nombreEstatus": "Aceptado",
                 "color": "#02AC66",
-                "orden": null,
                 "icon": "cloud_done"
             },
             {
@@ -41,155 +38,7 @@
                 "numeroDocumentos": 1,
                 "nombreEstatus": "Pendiente revisión",
                 "color": "#FFC400",
-                "orden": null,
                 "icon": "new_releases"
-            },
-            {
-                "operadorRazonSocial": "ADECCO",
-                "nombreTipoDocumento": "CIF",
-                "DocumentosUUID": "9eb62d23-4480-4cf4-98ab-caf6a84306f2",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Revisado requiere atención",
-                "color": "#FF6F00",
-                "orden": null,
-                "icon": "error_outline"
-            },
-            {
-                "operadorRazonSocial": "ADECCO",
-                "nombreTipoDocumento": "Opinión de Cumplimiento",
-                "DocumentosUUID": "3de51921-d0b9-43b3-9861-85facd49cee7",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Aceptado",
-                "color": "#02AC66",
-                "orden": null,
-                "icon": "cloud_done"
-            },
-            {
-                "operadorRazonSocial": "ADECCO",
-                "nombreTipoDocumento": "Acuse Riesgo 69 B",
-                "DocumentosUUID": "740c1911-efcb-4ed5-a2d8-45f4766aca7e",
-                "numeroDocumentos": 0,
-                "nombreEstatus": "No cargado",
-                "color": "#D50000",
-                "orden": null,
-                "icon": "cloud_off"
-            },
-            {
-                "operadorRazonSocial": "ADECCO",
-                "nombreTipoDocumento": "Comprobante de Domicilio",
-                "DocumentosUUID": "18470aa6-cdb3-4b54-87b0-6b0a0596fccf",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Pendiente revisión",
-                "color": "#FFC400",
-                "orden": null,
-                "icon": "new_releases"
-            },
-            {
-                "operadorRazonSocial": "ADECCO",
-                "nombreTipoDocumento": "Cotizaciones",
-                "DocumentosUUID": "75810cb6-29ec-435b-87e7-ae39ce6aaa3a",
-                "numeroDocumentos": 0,
-                "nombreEstatus": "No cargado",
-                "color": "#D50000",
-                "orden": null,
-                "icon": "cloud_off"
-            }
-        ]
-    },
-    {
-        "nombreOperador": "MANPOWER",
-        "score": "62.50%",
-        "markUp": "NA",
-        "tipoDocumento": [
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "Cuestionario de Entrada",
-                "DocumentosUUID": "7de7e269-000b-4fa4-8767-9e1fc8bb2b9c",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Aceptado",
-                "color": "#02AC66",
-                "orden": null,
-                "icon": "cloud_done"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "Acta Constitutiva",
-                "DocumentosUUID": "ee651530-e3a9-44b4-8118-7db8684b054c",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Aceptado",
-                "color": "#02AC66",
-                "orden": null,
-                "icon": "cloud_done"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "Poderes Representante",
-                "DocumentosUUID": "14432492-2edc-4767-aef6-25f08bd84138",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Pendiente revisión",
-                "color": "#FFC400",
-                "orden": null,
-                "icon": "new_releases"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "INE Representante",
-                "DocumentosUUID": "0e0bf23e-bd60-4576-a3d5-e16b11f641f8",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Aceptado",
-                "color": "#02AC66",
-                "orden": null,
-                "icon": "cloud_done"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "CIF",
-                "DocumentosUUID": "20e28000-431f-44cc-9954-f688c6b1ec8b",
-                "numeroDocumentos": 0,
-                "nombreEstatus": "No cargado",
-                "color": "#D50000",
-                "orden": null,
-                "icon": "cloud_off"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "Opinión de Cumplimiento",
-                "DocumentosUUID": "59609386-0f3a-4b5d-a480-efca6d6180da",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Aceptado",
-                "color": "#02AC66",
-                "orden": null,
-                "icon": "cloud_done"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "Acuse Riesgo 69 B",
-                "DocumentosUUID": "1444ed9a-05cd-44ad-9790-9ccaf6e76704",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Pendiente revisión",
-                "color": "#FFC400",
-                "orden": null,
-                "icon": "new_releases"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "Comprobante de Domicilio",
-                "DocumentosUUID": "5ba776af-a219-48c7-a37d-7f03861b1bd8",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Pendiente revisión",
-                "color": "#FFC400",
-                "orden": null,
-                "icon": "new_releases"
-            },
-            {
-                "operadorRazonSocial": "MANPOWER",
-                "nombreTipoDocumento": "Cotizaciones",
-                "DocumentosUUID": "9337cb98-fa46-466c-8d00-18c06a076979",
-                "numeroDocumentos": 1,
-                "nombreEstatus": "Aceptado",
-                "color": "#02AC66",
-                "orden": null,
-                "icon": "cloud_done"
             }
         ]
     }
