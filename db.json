@@ -1,0 +1,37 @@
+{
+            data: {
+                message: "Success",
+                data: [
+                    {
+                        id: "179",
+                        rfc: "XXXXXXXXXXX2",
+                        nombre: "City Market",
+                        createdAt: "2020-08-27 12:47:58",
+                        updatedAt: "2020-08-27 12:47:58",
+                        GrupoId: "47"
+                    }, {
+                        id: "180",
+                        rfc: "XXXXXXXXXXX3",
+                        nombre: "Fresco",
+                        createdAt: "2020-08-27 12:47:58",
+                        updatedAt: "2020-08-27 12:47:58",
+                        GrupoId: "48"
+                    }, {
+                        id: "181",
+                        rfc: "XXXXXXXXXXX4",
+                        nombre: "Sumesa",
+                        createdAt: "2020-08-27 12:47:58",
+                        updatedAt: "2020-08-27 12:47:58",
+                        GrupoId: "49"
+                    }, {
+                        id: "178",
+                        rfc: "XXXXXXXXXXX1",
+                        nombre: "La comer",
+                        createdAt: "2020-08-27 12:47:58",
+                        updatedAt: "2020-08-27 12:47:58",
+                        GrupoId: "46"
+                    }
+                ]
+            },
+            status: 200
+        }
